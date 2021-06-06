@@ -1,0 +1,47 @@
+@media (max-width: 750px) {
+	section{
+		top: 20%;
+		left: 50%;
+
+		padding: 5px 20px;
+	}
+	h1{
+		font-size: 3em;
+	}
+	h3{
+		font-size: 1em;
+
+		top: -40px;
+		left: 50px;
+	}
+	img{
+		width: 350px;
+
+		top: 70%;
+		left: 50%;
+	}
+	div{
+		font-size: 12em;
+
+		top: 80%;
+		left: 50%;
+
+		width: 80%;
+	}
+}
+@media (max-width: 670px) {
+	img{
+		width: 350px;
+
+		top: 70%;
+		left: 50%;
+	}
+	div{
+		font-size: 8em;
+
+		top: 95%;
+		left: 50%;
+
+		width: 80%;
+	}
+}
