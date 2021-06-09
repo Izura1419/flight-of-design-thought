@@ -28,6 +28,11 @@
 
 		width: 80%;
 	}
+
+	.ad{
+		top: 38%;
+		left: 50%;
+	}
 }
 @media (max-width: 670px) {
 	img{
